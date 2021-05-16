@@ -1,4 +1,4 @@
-# Taiwan Road Casualties (台灣道路傷亡數據)
+# Taiwan Road Casualty Statistics (台灣道路傷亡數據)
 
 Statistics relating to deaths and injuries occurring on the roads of Taiwan.
 
