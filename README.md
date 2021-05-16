@@ -1,4 +1,4 @@
-# Taiwan Road Casualties
+# Taiwan Road Casualties (台灣道路傷亡數據)
 
 Statistics relating to deaths and injuries occurring on the roads of Taiwan.
 
@@ -19,6 +19,8 @@ These statistics relate to deaths that occur within 30 days of a road traffic in
 [roadsafety.tw](https://roadsafety.tw/motcgisDashboard/Dashboard/Custom?type=30%E6%97%A5%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B8)
 
 #### Yearly Reports
+
+Reports are currently not available for all years. These are added when they can be located on an official government website.
 
 | Year | Source |
 | --: | -- |
