@@ -11,6 +11,7 @@ These statistics relate to deaths that occur within 30 days of a road traffic in
 | 2020 (109年) | 3,000 | 23,816,775 | 12.60 |
 | 2019 (108年) | 2,865 | 23,773,876 | 12.05 |
 | 2018 (107年) | 2,780 | 23,726,460 | 11.72 |
+| 2017 (106年) | 2,697 | 23,674,546 | 11.39 |
 
 ## Sources
 
