@@ -10,12 +10,20 @@ These statistics relate to deaths that occur within 30 days of a road traffic in
 | --: | --: | --: | --: |
 | 2020 (109年) | 3,000 | 23,816,775 | 12.60 |
 | 2019 (108年) | 2,865 | 23,773,876 | 12.05 |
+| 2018 (107年) | 2,780 | 23,726,460 | 11.72 |
 
 ## Sources
 
 ### Fatality Statistics
 
 [roadsafety.tw](https://roadsafety.tw/motcgisDashboard/Dashboard/Custom?type=30%E6%97%A5%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B8)
+
+#### Yearly Reports
+
+| Year | Source |
+| --: | -- |
+| 2019 (108年) | [stat.gov.tw](https://www.stat.gov.tw/public/Data/0317144756L3EO3FL6.pdf) |
+
 
 ### Population Statistics
 
