@@ -5,6 +5,8 @@ Statistics relating to deaths and injuries occurring on the roads of Taiwan.
 ## Fatalities by Year
 
 These statistics relate to deaths that occur within 30 days of a road traffic incident, where the traffic incident is listed as a cause of death.
+以下數據是道路交通事故發生後30天之內死亡人數。
+
 
 | Year<br>年度 | Fatalities<br>死亡人數 | Population<br>國家人口 | Fatalities per 100,000<br>每十萬人口死亡率 |
 | --: | --: | --: | --: |
